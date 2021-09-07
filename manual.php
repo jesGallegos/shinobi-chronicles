@@ -24,7 +24,7 @@ echo str_replace("[HEADER_TITLE]", "Rules", $body_start);
 
 <table class='table'><tr><th>Manual</th></tr>
     <tr><td>
-
+testing testing, does this work?.
 
     </td></tr>
 </table>
